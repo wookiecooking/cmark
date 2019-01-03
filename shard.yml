@@ -1,0 +1,7 @@
+name: cmark
+description: Compiles markdown files recursively
+version: 1.0.0
+authors:
+  - Wookiecooking <austin@datarats.com>
+crystal: 0.23.1
+license: MIT
